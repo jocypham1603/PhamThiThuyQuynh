@@ -6,7 +6,8 @@
 
 . Bài chụp thực hành: 
 
-https://github.com/user-attachments/assets/5bab48be-49cd-4a63-87d4-2c9cb83fca27
+![image](https://github.com/user-attachments/assets/f554b665-38b5-4a4e-a082-05429d035824)
+
 
 
 
